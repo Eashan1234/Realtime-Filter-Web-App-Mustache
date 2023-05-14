@@ -1,0 +1,22 @@
+h3{
+    font-size: 40px !important;
+    padding:20px !important;
+    letter-spacing:5px;
+    font-family:monospace;
+    text-decoration: underline overline;
+    font-variant: small-caps;
+}
+
+canvas{
+    border: 1px solid black;
+}
+
+.btn-success{
+    font-size:35px;
+    font-family:monospace;
+    letter-spacing:3px;
+    border-radius:20px;
+    padding:10px !important;
+    font-variant: small-caps;
+    margin-top:30px;
+}
